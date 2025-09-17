@@ -23,6 +23,6 @@ O sistema pode ser utilizado para:
 ## Simulação
 O projeto pode ser testado no **Wokwi Simulator**, com dados sendo enviados diretamente para o **ThingSpeak Dashboard**.  
 
-## 📂 Estrutura do Repositório
-- `smart_monitor.ino` → Código-fonte do ESP32.  
-- Documentação de montagem e links de evidências (Wokwi, vídeo, foto do hands-on).  
+[Imagem dos gráficos de dados do ThingSpeak] (<img width="1048" height="716" alt="image" src="https://github.com/user-attachments/assets/7666a056-59f1-4b7d-8ddb-3d8b19d128b9" />)
+
+
